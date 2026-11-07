@@ -1,0 +1,11 @@
+" fichier exemple "
+if a >b a=a+2
+"chaîne deux " #commmentaire#
+-2.3 5.6E8 +4.2 4
+- .1e2 2.3er
+Ident truc1 x1 2x
+"rigolo" #commentaire# x3 #commentaire#
+" Chaîne incomplète
+-t
+if machin while           pif
+#fin

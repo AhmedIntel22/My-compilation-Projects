@@ -1,0 +1,9 @@
+pi = 3.14;
+rayon = 10.5;
+surface = pi * (rayon * rayon);
+
+si (surface > 100.0) alors
+    print(surface);   // doit afficher 346.185 ( 3.14 * (10.5 * 10.5) )
+sinon
+    print(0.0);
+fin

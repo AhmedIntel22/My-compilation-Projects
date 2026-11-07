@@ -1,0 +1,19 @@
+i = 4;
+
+si (i > 3) alors
+    print(1);
+sinon
+    print(0);
+fin
+// doit afficher 1
+
+tant que (i < 5) alors
+    i = i + 1;
+        print(i);
+fin
+// doit afficher 5
+
+repeter
+        i = i - 1;
+    print(i);
+jusqua (i == 0); // doit afficher 4

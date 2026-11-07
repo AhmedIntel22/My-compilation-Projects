@@ -1,0 +1,29 @@
+# Flex / Lex generated files
+lex.yy.c
+lex.yy.exe
+lex.yy.obj
+
+# Yacc / Bison generated files
+y.tab.c
+y.tab.h
+y.tab.exe
+y.tab.obj
+
+# Compiled files
+*.exe
+*.o
+*.obj
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini

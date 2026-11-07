@@ -1,0 +1,8 @@
+a = 10;
+b = 5;
+
+c = a > b;
+print(c);   // doit afficher 1 ( vrai )
+
+d = a == b;
+print(d);   // doit afficher 0 ( faux )

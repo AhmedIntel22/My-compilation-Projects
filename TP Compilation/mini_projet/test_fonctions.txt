@@ -1,0 +1,10 @@
+x = 5;
+y = carre(x);   // doit afficher 25
+z = racine(16);   // doit afficher 4
+
+print(y);
+print(z);
+
+si (carre(3) > 5) alors
+    print(111);   // doit afficher 111
+fin

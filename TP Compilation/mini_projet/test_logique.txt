@@ -1,0 +1,12 @@
+a = 10;
+b = 5;
+c = 20;
+
+res1 = (a > b) && (c > a);
+print(res1); // doit afficher 1 ( vrai )
+
+res2 = (a < b) || (c > 100);
+print(res2); // doit afficher 0 ( faux )
+
+res3 = !(a == b);
+print(res3); // doit afficher 1 ( vrai )

@@ -1,0 +1,11 @@
+a = 10;
+b = 0;
+
+// Test de division par zéro
+print(a / 0);
+
+// Test de division par une variable égale à zéro
+res = a / b;
+
+// Vérification que le programme continue après l'erreur
+print(111);

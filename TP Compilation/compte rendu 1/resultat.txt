@@ -1,0 +1,4 @@
+Number of words : 3
+Numbre of lines : 2
+Nombre of characters : 22
+Sum of numbers : 25
